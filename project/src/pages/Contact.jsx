@@ -39,7 +39,7 @@ function Contact() {
                 </p>
                 <p className="flex items-center text-gray-600">
                   <span className="font-semibold mr-2">Phone:</span>
-                  (555) 123-4567
+                  (91+) 9834515256
                 </p>
                 <p className="flex items-center text-gray-600">
                   <span className="font-semibold mr-2">Address:</span>
